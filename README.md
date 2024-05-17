@@ -4,9 +4,9 @@
 
 Glad to have you on my Github profile!
 
-I recently began my career transition to AI and Data Analytics, and it has been a truly rewarding journey. I particularly love and work on projects related to machine learning, model building, data annotation, web scraping, and data analytics. I can say I wear different caps depending on the specific situation. On some days, I am a Data Analyst, diligently cleaning data and carrying out exploratory analysis and insightful visualizations to discover patterns and trends. On other days, I go a notch deeper as a Data Scientist, scraping web data, annotating, and building machine learning models to solve buisness problems. At my leisure, I fall back to my role as an Environmental Health Practitioner, where I engage with carbon calculations, environmental inspections, monitoring, and assessments to ensure complinace with regulatory standards.
+Since I had a  career transition to AI and Data Analytics, I have had a rewarding experience. I particularly love and work on projects related to machine learning, model building, data annotation, web scraping, and data analytics. I can say I wear different caps depending on the occasion. On some days, I am a Data Analyst, diligently cleaning data and carrying out exploratory analysis and insightful visualizations to discover patterns and trends. On other days, I go a notch deeper as a Data Scientist, scraping web data, annotating, and building machine learning models to solve business problems. At my leisure, I fall back to my role as an Environmental Health Practitioner, where I engage with carbon calculations, environmental inspections, monitoring, and assessments to ensure compliance with regulatory standards.
 
-I bring on board a wealth of experience and skills drawn from diverse sectors.
+I bring on-board a wealth of experience and skills drawn from diverse sectors.
 
 # Data Tools and Programming Languages
 
