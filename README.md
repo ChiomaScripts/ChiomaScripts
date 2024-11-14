@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/353f39be-de95-4275-af02-a122a8a33bea)# My name is Chioma
+# My name is Chioma
 
 [<img src = "https://th.bing.com/th/id/OIP.x0YtDAmlVimvaHtAUvUjngHaFQ?w=239&h=180&c=7&r=0&o=5&pid=1.7" alt = "LinkedIn Icon" width = "60">](https://www.linkedin.com/in/chioma-okpala/)
 
