@@ -2,6 +2,10 @@
 
 [<img src = "https://th.bing.com/th/id/OIP.x0YtDAmlVimvaHtAUvUjngHaFQ?w=239&h=180&c=7&r=0&o=5&pid=1.7" alt = "LinkedIn Icon" width = "60">](https://www.linkedin.com/in/chioma-okpala/)
 
+Welcome to my GitHub profile! 🎉
+I am a Data Scientist with a passion for Machine Learning, Web Scraping, Data Annotation, and Data Analysis. I thrive at the intersection of curiosity and problem-solving, turning data into actionable insights. 🌟
+With a background in Environmental Health and a transition to AI, I bring a unique perspective to solving real-world problems.
+
 Glad to have you on my Github profile!
 
 Since I had a  career transition to AI and Data Analytics, I have had a rewarding experience. I particularly love and work on projects related to machine learning, model building, data annotation, web scraping, and data analytics. I can say I wear different caps depending on the occasion. On some days, I am a Data Analyst, diligently cleaning data and carrying out exploratory analysis and insightful visualizations to discover patterns and trends. On other days, I go a notch deeper as a Data Scientist, scraping web data, annotating, and building machine learning models to solve business problems. At my leisure, I fall back to my role as an Environmental Health Practitioner, where I engage with carbon calculations, environmental inspections, monitoring, and assessments to ensure compliance with regulatory standards.
