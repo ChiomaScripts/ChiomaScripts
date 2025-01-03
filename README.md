@@ -22,7 +22,7 @@ In the course of my work and projects, I regularly use these tools and languages
 
 
 
-“Passion plus practice makes perfect! You can achieve anything you set your mind to. I did, so can you!”
+**“Passion plus practice makes perfect! You can achieve anything you set your mind to. I did, so can you!”**
 
 <!---
 ChiomaScripts/ChiomaScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
