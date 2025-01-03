@@ -21,6 +21,9 @@ In the course of my work and projects, I regularly use these tools and languages
 <img src = "https://th.bing.com/th/id/OIP.alhHp6CHoJWy7FPj3Z1nkAHaEK?w=296&h=180&c=7&r=0&o=5&pid=1.7" alt = "PowerBI Icon" width = "100">             <img src = "https://th.bing.com/th/id/OIP.lIIc_svaWdGdEJuEk7TBlgHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" alt = "MySql Icon" width = "80">                      <img src = "https://th.bing.com/th/id/OIP.3iL6YseFFbPG0q7kkEgv0AHaHa?w=163&h=180&c=7&r=0&o=5&pid=1.7" alt = "Jupyter Icon" width = "80">            <img src= "https://logowik.com/content/uploads/images/pycharm6005.logowik.com.webp" alt = "PyCharm Icon" width = "120">      <img src = "https://play-lh.googleusercontent.com/04k1wMqvNGY9KujbBEFD05jl2zV4ONdusyuZd8Y2mRyzdHoJgh5C8n8eoEvz9i4lgQ" alt = "Splunk Icon" width = "80">     <img src = "https://t3.ftcdn.net/jpg/05/83/61/64/360_F_583616403_EUunaylGQaq9QzKrijM4xRIGkpACZdfe.jpg" alt = "JS Icon" width = "100">   <img src = "https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt = "VSC Icon" width = "100">
 
 
+
+“Passion plus practice makes perfect! You can achieve anything you set your mind to. I did, so can you!”
+
 <!---
 ChiomaScripts/ChiomaScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
