@@ -3,6 +3,7 @@
 [<img src = "https://th.bing.com/th/id/OIP.x0YtDAmlVimvaHtAUvUjngHaFQ?w=239&h=180&c=7&r=0&o=5&pid=1.7" alt = "LinkedIn Icon" width = "60">](https://www.linkedin.com/in/chioma-okpala/)
 
 Welcome to my GitHub profile! 🎉
+
 I am an award-winning Data Scientist with a passion for leveraging data to drive innovation and impact. Recently, I was honored with the Dean’s Prize for Innovation and Impact in Master’s Dissertations at the University of Bradford for my groundbreaking work in synthetic data generation, advanced machine learning models, and data analytics during my MSc in Applied Artificial Intelligence & Data Analytics.
 
 With over a decade of experience spanning public health, banking, and customer service, I bring a unique blend of technical expertise and real-world problem-solving skills. My work includes designing data pipelines, creating innovative clustering methodologies, and training generative models tailored to specific industries.
