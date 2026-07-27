@@ -7,11 +7,11 @@ Production observability and SRE engineer at Flutter UK&I. My alerting systems p
 
 ## What I Build
 
-- 🔍 **Real-time event correlation and alerting** — Splunk, SPL, transaction-based sequencing, false-positive suppression
-- 📊 **Full PLG observability stacks** — Prometheus, Grafana, Loki, PromQL, LogQL
-- 🤖 **AI-assisted triage systems** — RAG pipelines, LLMs via AWS Bedrock, FastAPI
-- 🧬 **Synthetic data generation** — CTGAN/GANs, 98% statistical alignment (Dean's Prize for Innovation & Impact)
-- 🌍 **Cloud-native backend platforms** — FastAPI, PostgreSQL, AWS, Docker, Linux
+- 🔍 **Real-time event correlation and alerting** --> Splunk, SPL, transaction-based sequencing, false-positive suppression
+- 📊 **Full PLG observability stacks** --> Prometheus, Grafana, Loki, PromQL, LogQL
+- 🤖 **AI-assisted triage systems** --> RAG pipelines, LLMs via AWS Bedrock, FastAPI
+- 🧬 **Synthetic data generation** --> CTGAN/GANs, 98% statistical alignment (Dean's Prize for Innovation & Impact)
+- 🌍 **Cloud-native backend platforms** --> FastAPI, PostgreSQL, AWS, Docker, Linux
 
 ---
 
