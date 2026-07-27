@@ -48,35 +48,9 @@ Cloud:          AWS | Docker | Linux | PostgreSQL | REST APIs
 
 [<img src = "https://th.bing.com/th/id/OIP.x0YtDAmlVimvaHtAUvUjngHaFQ?w=239&h=180&c=7&r=0&o=5&pid=1.7" alt = "LinkedIn Icon" width = "60">](https://www.linkedin.com/in/chioma-okpala/)
 
-Chioma Queeneth Okpala
-Observability Engineer | SRE | Python Developer | Splunk · Grafana · Prometheus · Loki
 
-Production observability and SRE engineer at Flutter UK&I. My alerting systems prevent £250K+ in monthly trading losses and reduced bad debt by 81% MoM. 6× MVP nominee. Splunk Core Certified. PCAP Certified Python Developer.
 
-What I build:
-
-Real-time event correlation and alerting frameworks — Splunk, SPL, transaction-based sequencing, false-positive suppression
-Full PLG observability stacks — Prometheus, Grafana, Loki, PromQL, LogQL
-AI-assisted triage systems — RAG pipelines, LLMs via AWS Bedrock, FastAPI
-Synthetic data generation — CTGAN/GANs, 98% statistical alignment (Dean's Prize for Innovation & Impact)
-Cloud-native backend platforms — FastAPI, PostgreSQL, AWS, Docker, Linux
-
-Current focus:
-Working towards CKA (Certified Kubernetes Administrator) to deepen container orchestration expertise alongside my observability stack.
-
-Tech stack:
-
-Observability:  Splunk | Prometheus | Grafana | Loki | PromQL | LogQL | SPL
-AI/ML:          Python | RAG | AWS Bedrock | CTGAN | GANs | Scikit-Learn | FastAPI
-Cloud:          AWS | Docker | Linux | PostgreSQL | REST APIs
-
-Featured projects in this repo:
-
-🔍 Splunk alerting framework — real-time event correlation for live trading
-📊 Grafana/Prometheus observability stack — feed staleness and latency dashboards
-🤖 RABBIT — AI-assisted request triage using RAG and AWS Bedrock
-🧬 Synthetic data generation — GAN-based financial transaction data (Dean's Prize)
-🌍 Food Safety Compliance Platform — FastAPI + PostgreSQL + Streamlit
+**“Passion plus practice makes perfect! You can achieve anything you set your mind to. I did, so can you!”**
 
 
 
@@ -95,17 +69,6 @@ Featured projects in this repo:
 
 
 
-
-
-
-
-I am an award-winning Python Developer & Site Reliability Engineer with a passion for leveraging data to drive innovation and impact. Recently, I was honored with the Dean’s Prize for Innovation and Impact in Master’s Dissertations at the University of Bradford for my groundbreaking work in synthetic data generation, advanced machine learning models, and data analytics during my MSc in Applied Artificial Intelligence & Data Analytics.
-
-With over a decade of experience spanning public health, banking, and customer service, I bring a unique blend of technical expertise and real-world problem-solving skills. My work includes developing Observability and SRE workflows, designing data pipelines, creating innovative clustering methodologies, and training generative models tailored to specific industries.
-
-I thrive at the intersection of curiosity and problem-solving, turning data into actionable insights through Machine Learning, Web Scraping, Data Annotation, and Data Analysis. On some days, I wear the hat of a Data Analyst, cleaning data and creating insightful visualizations. On others, I dive deeper as a Data Scientist, building machine learning models or designing automated solutions for real-world challenges. 
-
-This GitHub portfolio showcases a few of my work. I hope it inspires you to connect and collaborate on exciting projects.
 
 # Data Tools and Programming Languages
 
@@ -117,7 +80,7 @@ In the course of my work and projects, I regularly use these tools and languages
 
 
 
-**“Passion plus practice makes perfect! You can achieve anything you set your mind to. I did, so can you!”**
+
 
 <!---
 ChiomaScripts/ChiomaScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
