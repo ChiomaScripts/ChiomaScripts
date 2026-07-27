@@ -46,9 +46,6 @@ Cloud:          AWS | Docker | Linux | PostgreSQL | REST APIs
 ## Connect
 🔗 **LinkedIn:** [linkedin.com/in/chioma-okpala](https://linkedin.com/in/chioma-okpala)
 
-[<img src = "https://th.bing.com/th/id/OIP.x0YtDAmlVimvaHtAUvUjngHaFQ?w=239&h=180&c=7&r=0&o=5&pid=1.7" alt = "LinkedIn Icon" width = "60">](https://www.linkedin.com/in/chioma-okpala/)
-
-
 
 **“Passion plus practice makes perfect! You can achieve anything you set your mind to. I did, so can you!”**
 
