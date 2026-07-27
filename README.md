@@ -1,11 +1,10 @@
 
 [<img src = "https://th.bing.com/th/id/OIP.x0YtDAmlVimvaHtAUvUjngHaFQ?w=239&h=180&c=7&r=0&o=5&pid=1.7" alt = "LinkedIn Icon" width = "60">](https://www.linkedin.com/in/chioma-okpala/)
 
-Welcome to my GitHub profile! 🎉
 
 I am an award-winning Python Developer & Site Reliability Engineer with a passion for leveraging data to drive innovation and impact. Recently, I was honored with the Dean’s Prize for Innovation and Impact in Master’s Dissertations at the University of Bradford for my groundbreaking work in synthetic data generation, advanced machine learning models, and data analytics during my MSc in Applied Artificial Intelligence & Data Analytics.
 
-With over a decade of experience spanning public health, banking, and customer service, I bring a unique blend of technical expertise and real-world problem-solving skills. My work includes designing data pipelines, creating innovative clustering methodologies, and training generative models tailored to specific industries.
+With over a decade of experience spanning public health, banking, and customer service, I bring a unique blend of technical expertise and real-world problem-solving skills. My work includes developing Observability and SRE workflows, designing data pipelines, creating innovative clustering methodologies, and training generative models tailored to specific industries.
 
 I thrive at the intersection of curiosity and problem-solving, turning data into actionable insights through Machine Learning, Web Scraping, Data Annotation, and Data Analysis. On some days, I wear the hat of a Data Analyst, cleaning data and creating insightful visualizations. On others, I dive deeper as a Data Scientist, building machine learning models or designing automated solutions for real-world challenges. 
 
