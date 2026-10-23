@@ -1,7 +1,7 @@
 # Chioma Queeneth Okpala
-### Observability Engineer | SRE | Python Developer | Splunk · Grafana · Prometheus · Loki
+### Observability Engineer | Reliability & Automation | Python Developer | Splunk · Grafana · Prometheus · Loki
 
-Production observability and SRE engineer at Flutter UK&I. My alerting systems prevent **£250K+** in monthly trading losses and reduced bad debt by **81% MoM**. **6× MVP nominee**. Splunk Core Certified. PCAP Certified Python Developer.
+Observability & Application Support Engineer at Flutter UK&I. My alerting systems prevent **£250K+** in monthly trading losses and reduced bad debt by **81% MoM**. **6× MVP nominee**. Splunk Core Certified. PCAP Certified Python Developer.
 
 ---
 
