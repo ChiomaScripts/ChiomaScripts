@@ -107,15 +107,22 @@ My focus is on developing transferable engineering skills that connect applicati
 
 ---
 
+
 ## 📂 Explore My Work
 
-🚀 **[DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)** — My flagship engineering portfolio, documenting hands-on projects across Linux, cloud infrastructure, Docker, application deployment, automation and evolving DevOps practices.
+🌐 **[Engineering Portfolio Website](https://chiomascripts.github.io/Engineering-Portfolio/)** — My interactive engineering portfolio, showcasing professional experience, DevOps and cloud engineering implementations, applied AI, Python development and data analytics.
 
-🐍 **[Software, Data & AI Projects](https://github.com/ChiomaScripts/My-Portfolio)** — A broader collection of Python development, data engineering, machine learning and application projects, including earlier work that contributed to my technical foundations.
+🚀 **[DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)** — My dedicated collection of hands-on DevOps projects across Linux, cloud infrastructure, Docker, application deployment, automation and evolving engineering practices.
+
+🏢 **[Applied Engineering Projects](https://github.com/ChiomaScripts/Applied-Engineering-Projects)** — A collection of professional engineering, Python development, applied AI, data analytics and application projects, including foundational work from my technical journey.
+
+📂 **[Complete Engineering Project Catalogue](https://github.com/ChiomaScripts/Engineering-Portfolio)** — My central GitHub repository bringing together all engineering disciplines, with direct links to public projects and supporting documentation.
 
 💻 **[All GitHub Repositories](https://github.com/ChiomaScripts?tab=repositories)** — Explore my public repositories, experiments and ongoing technical development.
 
 ---
+
+
 
 ## 🤝 Connect
 
