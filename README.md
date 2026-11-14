@@ -8,7 +8,7 @@ I'm an Observability & Application Support Engineer at **Flutter UK&I**, working
 
 My professional work includes developing real-time monitoring and alerting solutions that help prevent **£250K+ in monthly trading losses**, contributing to an **81% month-on-month reduction in bad debt**, and improving the visibility and reliability of business-critical systems.
 
-**6× MVP Nominee | Splunk Core Certified | PCAP Certified Python Developer**
+**7x MVP Nominee | Splunk Core Certified | PCAP Certified Python Developer**
 
 Alongside my professional experience, I'm expanding my engineering capabilities across DevOps, cloud infrastructure, Linux administration, containerisation and application delivery through hands-on implementation.
 
@@ -109,11 +109,11 @@ My focus is on developing transferable engineering skills that connect applicati
 
 ## 📂 Explore My Work
 
-**[Main Engineering Portfolio](https://github.com/ChiomaScripts/My-Portfolio)** — Selected projects across observability, Python automation, data engineering and DevOps.
+🚀 **[DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)** — My flagship engineering portfolio, documenting hands-on projects across Linux, cloud infrastructure, Docker, application deployment, automation and evolving DevOps practices.
 
-**[DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)** — Hands-on infrastructure, deployment, containerisation and automation projects.
+🐍 **[Software, Data & AI Projects](https://github.com/ChiomaScripts/My-Portfolio)** — A broader collection of Python development, data engineering, machine learning and application projects, including earlier work that contributed to my technical foundations.
 
-**[GitHub Repositories](https://github.com/ChiomaScripts?tab=repositories)** — Browse my public technical work.
+💻 **[All GitHub Repositories](https://github.com/ChiomaScripts?tab=repositories)** — Explore my public repositories, experiments and ongoing technical development.
 
 ---
 
